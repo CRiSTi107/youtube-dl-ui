@@ -1,0 +1,9 @@
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube-dl-ui.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube_dl_ui.Properties.Resources.resources
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube_dl_ui.youtube_dl_ui.resources
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube-dl-ui.csproj.GenerateResource.Cache
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\bin\Debug\youtube-dl-ui.exe
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\bin\Debug\youtube-dl-ui.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube-dl-ui.exe
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube-dl-ui.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\youtube-dl-ui\youtube-dl-ui\obj\Debug\youtube_dl_ui.youtube_dl_ui_about.resources

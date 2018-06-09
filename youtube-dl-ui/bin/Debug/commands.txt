@@ -1,0 +1,5 @@
+youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 <Video-URL>
+
+youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 <Video-URL> -o dwn/%(title)s.%(ext)s
+
+youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 <Video-URL> -o %(title)s.%(ext)s
