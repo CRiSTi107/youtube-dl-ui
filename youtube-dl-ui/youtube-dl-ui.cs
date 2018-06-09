@@ -79,5 +79,10 @@ namespace youtube_dl_ui
             downloader.Download();
             
         }
+
+        private void loadURLsFromFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            btn_Load_URLs.PerformClick();
+        }
     }
 }

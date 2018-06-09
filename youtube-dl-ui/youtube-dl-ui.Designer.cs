@@ -216,6 +216,7 @@
             this.loadURLsFromFileToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
             this.loadURLsFromFileToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
             this.loadURLsFromFileToolStripMenuItem.Text = "L&oad URLs from file...";
+            this.loadURLsFromFileToolStripMenuItem.Click += new System.EventHandler(this.loadURLsFromFileToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
